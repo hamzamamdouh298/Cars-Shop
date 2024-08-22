@@ -12,3 +12,7 @@ Import database carrental.sql (available SQL File Folder inside zip package)
 For User
 Open Your browser put inside browser “http://localhost/carrental”
 
+
+![localhost_CarRental_carrental_](https://github.com/user-attachments/assets/8fa5329d-a8d2-45b0-91d1-42e94d07f2c6)
+
+
